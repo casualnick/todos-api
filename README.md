@@ -9,9 +9,9 @@ Basic aplication api only
 
 ## Gems
  - facotry_bot_rails 4.0
- -shoulda-matchers 3.1
- -faker
- -database_cleaner
+ - shoulda-matchers 3.1
+ - faker
+ - database_cleaner
   
   
 ## Info
