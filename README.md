@@ -8,11 +8,10 @@ Basic aplication api only
 
 
 ## Gems
-
- -factory_bot_rails ~> 4.0
-  -shoulda-matchers ~> 3.1
-  -faker
-  -database_cleaner
+ - facotry_bot_rails 4.0
+ -shoulda-matchers 3.1
+ -faker
+ -database_cleaner
   
   
 ## Info
