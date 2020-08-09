@@ -1,24 +1,30 @@
-# README
+# Todos-Api
+Basic aplication api only
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Technologies
 
-Things you may want to cover:
+-Rspec 3.9
+-Rails 6.0.2.2
 
-* Ruby version
 
-* System dependencies
+## Gems
 
-* Configuration
+ -factory_bot_rails', '~> 4.0'
+  -'shoulda-matchers', '~> 3.1'
+  -'faker'
+  -'database_cleaner'
+  
+  
+## Info
+Aplication is not using view, thus we can only test it. To start test you have to type:
 
-* Database creation
+``
+bundle exec rspec
+``
 
-* Database initialization
+## Inspiration 
 
-* How to run the test suite
+I got inspiration form this tutorial:
 
-* Services (job queues, cache servers, search engines, etc.)
+https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one?fbclid=IwAR1Rb3uozmQMFgIk2oE5-Ux_QkHWhIjGEJseu2RJlcLuWxAqjv6qi_xswks
 
-* Deployment instructions
-
-* ...
